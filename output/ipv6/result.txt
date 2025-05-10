@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-10 07:15:46,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-05-10 19:23:15,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -541,6 +541,7 @@ CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://congtou.top:9292/rtp/239.77.0.112:5146
 广东卫视,https://tv.bfsu.edu.cn/hls/gdhd.m3u8
 广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
 广东卫视,http://yc.myds.me:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
@@ -1431,6 +1432,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
 广东体育,https://cdn2.163189.xyz/live/gdty/stream.m3u8
+广东体育,http://congtou.top:9292/rtp/239.77.0.112:5146
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
