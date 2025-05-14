@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-14 07:16:21,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-05-14 19:22:37,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1363,6 +1363,7 @@ NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000
 黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 纬来电影,http://j.s.bkpcp.top/js/wldy
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
