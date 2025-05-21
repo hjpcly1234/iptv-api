@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-21 07:14:45,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-05-21 19:23:25,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1322,6 +1322,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
+星卫娱乐,https://www.goodiptv.club/huya/880203
 
 🎬电影频道,#genre#
 CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy
@@ -1378,6 +1379,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://tv.iill.top/litv/4gtv-4gtv058
+星卫娱乐,https://www.goodiptv.club/huya/880203
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,http://tv.scjyhd.com:4022/udp/239.93.0.57:9024
 经典电影,https://tv.iill.top/4gtv/201
