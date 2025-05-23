@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-23 18:47:11,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-05-24 06:48:21,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -183,6 +183,9 @@ CCTV-17,http://tvbox6.com/tv/bfgd.php?id=204
 CCTV-17,http://goo.bkpcp.top/mg/cctv17
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
+CETV2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
+CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 
 💰央视付费频道,#genre#
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
@@ -883,6 +886,7 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 金鹰纪实,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?
 金鹰纪实,http://tv.scjyhd.com:4022/udp/239.93.0.130:5140
 金鹰纪实,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225595/index.m3u8?fmt=ts2hls
+金鹰纪实,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
 湖南金鹰纪实,http://yc.myds.me:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 湖南金鹰纪实,http://nas.suntao.online:35455/itv/5000000011000031203.m3u8?cdn=bestzb
 长沙新闻综合,http://ls.qingting.fm/live/4877.m3u8
@@ -1135,6 +1139,7 @@ CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 山东教育,http://goo.bkpcp.top/mg/sdjy
 山东教育,http://tv.scjyhd.com:4022/udp/239.11.0.140:5140
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
+山东教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
 山东居家购物,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
