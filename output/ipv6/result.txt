@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-28 06:43:01,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-05-28 18:49:48,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1337,6 +1337,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://j.s.bkpcp.top/js/dsdy
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
 星卫娱乐,https://www.goodiptv.club/huya/880203
 
@@ -1405,6 +1406,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://j.s.bkpcp.top/js/dsdy
+东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 
 🎥咪咕直播,#genre#
