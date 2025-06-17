@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-17 18:51:57,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-06-18 06:45:40,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1311,6 +1311,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -1322,7 +1323,9 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,http://k.061899.xyz/k.php?id=jbty
 纬来体育,https://99z.top/https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://j.s.bkpcp.top/jj/wltyt
+纬来体育,https://vx65267199.18cn.dpdns.org/49.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 J2,http://j.s.bkpcp.top/jj/2j
 Viutv,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
 Viutv,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
@@ -1340,6 +1343,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森综合,https://video.mytvsuper.xyz/live/0824f7c913dc861cf747a634205970feee47a2a59e9a15dffaecfc8fc6bd9909.m3u8?token=825716213175186
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://j.s.bkpcp.top/js/dsdy
@@ -1384,9 +1388,11 @@ NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3
 NewTV惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+NewTV惊悚悬疑,https://fenghuang.tv12.xyz/33.m3u8
 NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
+NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
@@ -1414,6 +1420,7 @@ NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000
 东森电影,http://j.s.bkpcp.top/js/dsdy
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
+东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 
 🎥咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
@@ -1489,6 +1496,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 纬来体育,http://k.061899.xyz/k.php?id=jbty
 纬来体育,https://99z.top/https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://j.s.bkpcp.top/jj/wltyt
+纬来体育,https://vx65267199.18cn.dpdns.org/49.m3u8
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
