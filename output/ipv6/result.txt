@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-29 18:49:21,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-06-30 06:42:06,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -942,6 +942,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd#rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
 四川科教,http://tv.scjyhd.com:4022/udp/239.11.0.194:5140
+四川科教,http://wouu.net:9977/udp/239.93.42.44:5140
 宜宾公共,http://tv.scjyhd.com:4022/udp/239.10.0.81:5140
 广元公共,http://tv.scjyhd.com:4022/udp/239.10.0.61:5140
 广元综合,http://tv.scjyhd.com:4022/udp/239.10.0.60:5140
@@ -1419,6 +1420,7 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 经典电影,https://tv.iill.top/4gtv/201
 星空卫视,http://iptv.huuc.edu.cn/hls/startv.m3u8
 星空卫视,http://tv.scjyhd.com:4022/udp/239.93.0.156:2193
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://j.s.bkpcp.top/js/dsdy
