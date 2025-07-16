@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-16 18:46:41,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-07-17 06:46:20,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -207,6 +207,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+香港卫视,https://hls-gateway.vpstv.net/streams/708918.m3u8
 浙江卫视,https://tv.bfsu.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036
@@ -1262,6 +1263,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 明珠台,http://tl.061833.xyz/tl/null-12
 明珠台,http://o12.1678520.xyz/hls/mzt/playlist.m3u8
 明珠台,https://zjtv01.tv12.xyz/%E6%98%8E%E7%8F%A0%E5%8F%B0
+明珠台,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
@@ -1298,6 +1300,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+香港卫视,https://hls-gateway.vpstv.net/streams/708918.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://z.b.bkpcp.top/m.php?id=tvbwlty
