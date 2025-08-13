@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-13 06:40:27,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-08-13 18:40:31,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1288,6 +1288,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
 凤凰卫视,https://live.catvod.com/smart.php?id=phoenixtv_hd
+凤凰卫视,https://smt.520761.xyz/Smart.php?id=phoenixtv_hd
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -1333,6 +1334,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
 东森超视,https://live.catvod.com/smart.php?id=ettvsuper
+东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,http://j.s.bkpcp.top/js/dsdy
@@ -1397,6 +1399,7 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1
 纬来电影,http://live.catvod.com/smart.php?id=videolandmovie
+纬来电影,https://smt.520761.xyz/Smart.php?id=videolandmovie
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://tv.iill.top/litv/4gtv-4gtv058
@@ -1418,6 +1421,7 @@ NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
 东森超视,https://live.catvod.com/smart.php?id=ettvsuper
+东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 
 🎥咪咕直播,#genre#
 咪咕直播2,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
