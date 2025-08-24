@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-24 18:45:18,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-08-25 06:39:40,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1265,7 +1265,7 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 翡翠台,https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 明珠台,https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 明珠台,https://video.mytvsuper.xyz/live/61ea51c90fc0c71dab94749f05bb3c9209114e3aad97f551100bd3a133dc5608.m3u8?token=825716213175186
-明珠台,https://live.tvfix.org/live/pearl/index.m3u8
+明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 明珠台,http://j.s.bkpcp.top/jj/zzt
 明珠台,http://jxiptv.dpdns.org/stream/4gtv/null-1/master.m3u8
 明珠台,http://tl.061833.xyz/tl/null-12
