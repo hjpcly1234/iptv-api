@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-29 18:42:52,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-08-30 06:40:46,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1307,7 +1307,7 @@ CETV4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CET
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=a448c93ee424169c7af2f4208125e569538519d3b2cbfbb405816db4969f21e7%3A1756462321
 凤凰卫视,https://smt.520761.xyz/Smart.php?id=phoenixtv_hd
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -1330,7 +1330,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
-纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax
+纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=9f675bb6a237e9bc0e51ad2f0b86ced18a755a06038d681f817e99fa004f3c1a%3A1756462321
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 J2,http://j.s.bkpcp.top/jj/2j
 J2,https://Smart.pendy.dpdns.org/Smart.php?id=j2_twn
@@ -1357,7 +1357,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper
+东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper&token=eb3c464676d26a5e4e92fd51df4f545bb9f32b3f4ace43e140393aa0638e4f24%3A1756462321
 东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
@@ -1454,7 +1454,7 @@ NewTV动作电影,https://mursor.ottiptv.cc/yy/1382736809
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper
+东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper&token=eb3c464676d26a5e4e92fd51df4f545bb9f32b3f4ace43e140393aa0638e4f24%3A1756462321
 东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 
 🎥咪咕直播,#genre#
