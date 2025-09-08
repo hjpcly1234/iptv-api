@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-08 18:43:45,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-09-09 06:39:35,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1397,6 +1397,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 三立新闻,https://live.iill.top/youtube/MV9mI0GChwo
 三立新闻,http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
+三立新闻,http://pullpackage.alivecdn.com/live/GDGMQBLKWMPhyKJYSPPR6dnb2lS3FvykpFuj8AZf19Mbfd2yjx.flv
 东森综合,https://video.mytvsuper.xyz/live/0824f7c913dc861cf747a634205970feee47a2a59e9a15dffaecfc8fc6bd9909.m3u8?token=825716213175186
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
