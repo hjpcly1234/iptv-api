@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-19 18:47:33,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-09-20 06:42:38,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1485,7 +1485,7 @@ NewTV动作电影,https://mursor.ottiptv.cc/yy/1382736809
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
+纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie&token=3197a6a5f7f8f289452a628e2b4fbde925a728493968621cc0644d5b74bd0dbd%3A1758241876
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
