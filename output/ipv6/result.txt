@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-27 18:45:41,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-09-28 06:40:59,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1195,6 +1195,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 山东教育,http://tv.scjyhd.com:4022/udp/239.11.0.140:5140
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
 山东教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
+山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927080126244a72fa1b554182ae03568fff35bca7&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927080126&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927080126&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=41ee1554c91427e91ee78ce8b64f7a33&ddCalcu=3431eae27e9f104565b48ce9c18472e7ee19
 山东居家购物,http://livealone302.iqilu.com/iqilu/gwpd.m3u8
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
@@ -1286,6 +1287,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+青海都市,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8
 
 ☘️黑龙江频道,#genre#
@@ -1372,7 +1374,6 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
 凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=a448c93ee424169c7af2f4208125e569538519d3b2cbfbb405816db4969f21e7%3A1756462321
 凤凰卫视,https://smt.520761.xyz/Smart.php?id=phoenixtv_hd
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
@@ -1395,7 +1396,6 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
-纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=9f675bb6a237e9bc0e51ad2f0b86ced18a755a06038d681f817e99fa004f3c1a%3A1756462321
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 J2,http://j.s.bkpcp.top/jj/2j
 J2,https://Smart.pendy.dpdns.org/Smart.php?id=j2_twn
@@ -1423,7 +1423,6 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper&token=eb3c464676d26a5e4e92fd51df4f545bb9f32b3f4ace43e140393aa0638e4f24%3A1756462321
 东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 东森电影,https://video.mytvsuper.xyz/live/3873bf0de7a1bc1573881151e401689f16f83005e1c8d0c568c6dc1c32937bf8.php?token=825716213175186
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
@@ -1505,7 +1504,6 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie&token=3197a6a5f7f8f289452a628e2b4fbde925a728493968621cc0644d5b74bd0dbd%3A1758241876
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
@@ -1535,7 +1533,6 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
 东森超视,http://live.catvod.com/smart.php?id=ettvsuper
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper&token=eb3c464676d26a5e4e92fd51df4f545bb9f32b3f4ace43e140393aa0638e4f24%3A1756462321
 东森超视,https://smt.520761.xyz/Smart.php?id=ettvsuper
 
 🎥咪咕直播,#genre#
