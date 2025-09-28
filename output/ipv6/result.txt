@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-28 18:41:41,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-09-29 06:38:56,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1377,6 +1377,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 凤凰卫视,https://vx65267199.18cn.dpdns.org/2.m3u8
 凤凰卫视,https://smt.520761.xyz/Smart.php?id=phoenixtv_hd
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=99fe79f93db5848e00c444aafe5c454078fcb12398cdaadf53b8600d0469a666%3A1759054291%3ANjQuMjM2LjE2MC4xNg%3D%3D
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -1398,6 +1399,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
+纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=fb285733489fa802542a3d6e8ed9de930b032679d63cb750f7e3ed6f68452a1c%3A1759054291%3ANjQuMjM2LjE2MC4xNg%3D%3D
 J2,http://j.s.bkpcp.top/jj/2j
 J2,https://Smart.pendy.dpdns.org/Smart.php?id=j2_twn
 Viutv,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
@@ -1505,6 +1507,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
+纬来电影,https://live.catvod.com/catvod_com.php?id=videolandmovie
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
