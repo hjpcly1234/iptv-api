@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-18 18:42:09,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-10-19 06:42:38,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1514,7 +1514,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=1fa7e42d357b8af43db2b23d3d3d00eb2c15a1c512a0d0b0adcdc486cea2174f%3A1760231823%3AMTcyLjIxMi4xNjUuNjc%3D
+纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=39815a8fddde536bc56e7e23e0e2ce749cd2c13b7b1cb8a08abe873973b03f43%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
