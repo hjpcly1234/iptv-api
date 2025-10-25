@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-25 18:40:23,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-10-26 06:42:20,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1410,7 +1410,7 @@ Viutv,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91
 Viutv,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 Viutv,http://cdn12.1678520.xyz/live/?id=viu
 三立台湾,https://video.mytvsuper.xyz/live/b44650231f95ab836b2ed7441d7029f4274073600361945982873635e4363514.m3u8?token=825716213175186
-三立台湾,https://smt.iktv.ddns-ip.net/Smart.php
+三立台湾,https://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -1426,6 +1426,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森综合,https://video.mytvsuper.xyz/live/0824f7c913dc861cf747a634205970feee47a2a59e9a15dffaecfc8fc6bd9909.m3u8?token=825716213175186
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
+东森综合,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvzhonghe
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
@@ -1439,6 +1440,7 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://cnlive.org/channel/n5502f4/index.m3u8
+东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
@@ -1542,6 +1544,7 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://cnlive.org/channel/n5502f4/index.m3u8
+东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
