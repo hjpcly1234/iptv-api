@@ -23,7 +23,7 @@ jobs:
 
     - name: Pull the latest changes
       run: |
-        git pull origin master --rebase  # 拉取远程的 master 分支并 rebase，避免冲突
+        git pull origin main --rebase  # 修改为拉取远程的 main 分支并 rebase，避免冲突
 
     - name: Run the script (info only)
       run: |
@@ -41,4 +41,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: script-results
-        path: test/output/detail_result.json  # 上传抓取的 JSON 结果文件
+        path: output/data/test/detail_result.json  # 上传抓取的 JSON 结果文件
