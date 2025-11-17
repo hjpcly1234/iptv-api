@@ -23,7 +23,7 @@ jobs:
 
     - name: Pull the latest changes
       run: |
-        git pull origin main --rebase  # 修改为拉取远程的 main 分支并 rebase，避免冲突
+        git pull origin master --rebase  # 如果远程使用的是 master 分支，这里改为 master
 
     - name: Run the script (info only)
       run: |
