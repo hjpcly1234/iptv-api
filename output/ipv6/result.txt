@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-17 06:41:16,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-11-18 06:42:52,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1345,7 +1345,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 明珠台,https://zjtv01.tv12.xyz/%E6%98%8E%E7%8F%A0%E5%8F%B0
 明珠台,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8
 明珠台,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
-明珠台,http://bxtv.3a.ink/api.php?id=mz
+明珠台,https://smt.520761.xyz/Smart.php?id=pearl_twn
 凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzw
@@ -1401,7 +1401,7 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来体育,http://live.catvod.com/smart.php?id=videolandsport
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-纬来体育,http://bxtv.3a.ink/api.php?id=wlty
+纬来体育,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
@@ -1438,9 +1438,9 @@ Viutv,http://cdn12.1678520.xyz/live/?id=viu
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,http://free.cnlive.club/channel/n5502f4/index.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://cnlive.org/channel/n5502f4/index.m3u8
 东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
+东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
@@ -1514,12 +1514,12 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 纬来电影,https://idx.gdplayertv.to/live-tv/videoland-movie/?embed=1
 纬来电影,http://live.catvod.com/smart.php?id=videolandmovie
 纬来电影,https://smt.520761.xyz/Smart.php?id=videolandmovie
-纬来电影,http://bxtv.3a.ink/api.php?id=wldy
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,http://pullpackage.alivecdn.com/live/LIjQbqWr0oCfwR6SjWMVXyUh5m1qsJgqORFprvbBloK6NfqVBD.flv
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=39815a8fddde536bc56e7e23e0e2ce749cd2c13b7b1cb8a08abe873973b03f43%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 纬来电影,https://smt.1678520.xyz/smt3.2.1.php?id=videolandmovie
+纬来电影,http://bxtv.3a.ink/api.php?id=wldy
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
@@ -1550,9 +1550,9 @@ NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=yste
 东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
 东森电影,http://free.cnlive.club/channel/n5502f4/index.m3u8
 东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://cnlive.org/channel/n5502f4/index.m3u8
 东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
+东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
@@ -1638,7 +1638,7 @@ CCTV-5+,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来体育,http://live.catvod.com/smart.php?id=videolandsport
 纬来体育,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
-纬来体育,http://bxtv.3a.ink/api.php?id=wlty
+纬来体育,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
