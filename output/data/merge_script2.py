@@ -9,7 +9,7 @@ from time import sleep
 base_url = "https://sex8zy.com"
 type_id = 65  # 分类 ID
 start_page = 1  # 起始页
-end_page = 5  # 结束页（包含）
+end_page = 120  # 结束页（包含）
 output_dir = Path("output/data/test")  # 输出目录（在 test 文件夹内）
 list_path = output_dir / "result2.json"
 detail_path = output_dir / "detail_result2.json"
