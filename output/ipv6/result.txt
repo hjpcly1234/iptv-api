@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-05 18:41:28,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-12-06 06:41:49,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -222,6 +222,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 浙江卫视,https://tv.bfsu.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,http://ikuai.zlsip.top:4022/rtp/239.3.1.137:8036
@@ -1393,6 +1394,7 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
 香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,http://z.b.bkpcp.top/m.php?id=tvbwlty
