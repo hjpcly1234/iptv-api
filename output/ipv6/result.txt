@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-07 18:40:48,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-12-08 06:39:27,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1499,12 +1499,14 @@ NewTV惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw248277
 NewTV惊悚悬疑,https://fenghuang.tv12.xyz/33.m3u8
 NewTV惊悚悬疑,http://3501776.xyz:35455/itv/1000000004000024282.m3u8?cdn=ystenlive
 NewTV惊悚悬疑,http://iptv.666230.xyz/iptv/bjyd.php/7013
+NewTV惊悚悬疑,https://iptv.catvod.com/live.php?id=NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91
 NewTV动作电影,http://yc.myds.me:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
 NewTV动作电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000018653/1.m3u8?channel-id=ystenlive&Contentid=1000000004000018653&livemode=1&stbId=3
 NewTV动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
 NewTV动作电影,https://fenghuang.tv12.xyz/26.m3u8
 NewTV动作电影,https://mursor.ottiptv.cc/yy/1382736809
 NewTV动作电影,http://3501776.xyz:35455/itv/1000000004000018653.m3u8?cdn=ystenlive
+NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 黑莓电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::4001]:80/TVOD/88888888/224/3221225681/main.m3u8
