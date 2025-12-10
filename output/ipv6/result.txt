@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-10 18:43:29,http://z.b.bkpcp.top/m.php?id=cctv1
+2025-12-11 06:46:25,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -326,7 +326,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 广西卫视,https://tv.bfsu.edu.cn/hls/gxhd.m3u8
 广西卫视,http://yc.myds.me:35455/itv/5000000011000031118.m3u8?cdn=bestzb
 广西卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887394.m3u8
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b-1.m3u8
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://live.cztv.cc:85/live/ggpd.m3u8
 广西卫视,http://tvbox6.com/tv/bfgd.php?id=116
@@ -576,6 +576,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 广东卫视,http://alvin.ergotron.net:8000/udp/239.77.1.19:5146
 广东卫视,http://webmail.axxe.top:4022/rtp/239.3.1.142:8048
 广东民生,http://n1.gzbody.com:85/rtp/239.77.0.225:5146
+广东民生,https://hk.188766.xyz/?migutoken=21a108690e474388b263cef21d69db47&id=gd_gdms&type=sz
 大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
@@ -1413,6 +1414,7 @@ TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=fb285733489fa802542a3d6e8ed9de930b032679d63cb750f7e3ed6f68452a1c%3A1759054291%3ANjQuMjM2LjE2MC4xNg%3D%3D
+纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
 J2,https://Smart.pendy.dpdns.org/Smart.php?id=j2_twn
 Viutv,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
 Viutv,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
@@ -1529,6 +1531,7 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 纬来电影,https://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
 纬来电影,https://live.catvod.com/live.php?id=videolandmovie&token=39815a8fddde536bc56e7e23e0e2ce749cd2c13b7b1cb8a08abe873973b03f43%3A1760749987%3AMjAuMTA5LjM4LjIyNA%3D%3D
 纬来电影,https://smt.1678520.xyz/smt3.2.1.php?id=videolandmovie
+纬来电影,https://smart.dxjc.pp.ua/smart.php?id=videolandmovie&token=tmxk
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://pullpackage.alivecdn.com/live/hTZYTLKukHNqDnshCwsOBdnFoZs5a4UeCJ396iYBSzJGOEv6kg.flv
