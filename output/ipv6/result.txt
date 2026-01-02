@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-02 18:41:31,http://z.b.bkpcp.top/m.php?id=cctv1
+2026-01-03 06:48:23,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1464,7 +1464,6 @@ Viutv,http://iptv.diyp.site/公众号【DIYP】.php?key=gat5&id=4f0dd8b20a195bdf
 东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://tv.iill.top/litv/4gtv-4gtv065
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
@@ -1582,7 +1581,6 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 东森电影,https://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
 东森电影,https://smart.dxjc.pp.ua/smart.php?id=ettvmovie&token=tmxk
 东森电影,http://iptv.diyp.site/公众号【DIYP】关注一下啊.php?key=gat2&id=11
-东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://vx65267199.18cn.dpdns.org/43.m3u8
 东森超视,https://hls-gateway.vpstv.net/streams/476234.m3u8
