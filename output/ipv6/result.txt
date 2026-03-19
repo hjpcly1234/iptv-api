@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-19 19:03:09,http://z.b.bkpcp.top/m.php?id=cctv1
+2026-03-20 06:48:26,http://z.b.bkpcp.top/m.php?id=cctv1
 
 📺央视频道,#genre#
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
@@ -1406,6 +1406,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 凤凰卫视,https://smt.520761.xyz/Smart.php?id=phoenixtv_hd
 凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰卫视,https://tmxk.pp.ua/smt.php?id=phoenixtv_hd
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://thunderbolt-40gbps.com/live/qtTNEdtW/JdEZiDM5/19474.ts
@@ -1436,6 +1437,7 @@ TVBS亚洲,https://t.freetv.fun/live/tvbsya-zhou-1.m3u8
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule&token=29d66f02bb445a2069a8f31cbb216cf3f2cbf9de61528e66d4c52126be7431e7%3A1761182302%3ANTIuMjM0LjQzLjE3Nw%3D%3D
 纬来育乐,http://free.cnlive.club/channel/581c988d/index.m3u8
 J2,https://Smart.pendy.dpdns.org/Smart.php?id=j2_twn
+J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 Viutv,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
 Viutv,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 Viutv,http://cdn12.1678520.xyz/live/?id=viu
